@@ -3,9 +3,6 @@
 ##Getting Started
 The project runs on Node and React.
 
-##Installing
-Clone the repository:
-git clone https://github.com/PolyaneRibeiro/pokedex.git
 
 ##Run npm install to install node dependencies:
 npm i
